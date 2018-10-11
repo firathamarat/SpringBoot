@@ -12,7 +12,7 @@ Bu işlemler proje büyüdükçe vakit alabiliyor. Spring Boot ise bu vakit kayb
 
 - **start.spring.io** 
 
-[start.spring.io](https://start.spring.io/) adresine girerek nasıl bir proje oluşturacak isek seçenekleri seçerek, Spring Boot haricinde başka bir bağımlığa ihtiyacımız varsa `Search for dependencies` kısmından arayıp projenize ekleyebilirsiniz. Projeye bağlı seçenekler seçildikten sonra `Generate Project` butonuna tıklayarak **.zip** uzantılı dosyayı bilgisayarınıza indirip IDE’nizde açabilirsiniz.
+<a href="https://start.spring.io/" target="_blank">start.spring.io</a> adresine girerek nasıl bir proje oluşturacak isek seçenekleri seçerek, Spring Boot haricinde başka bir bağımlığa ihtiyacımız varsa `Search for dependencies` kısmından arayıp projenize ekleyebilirsiniz. Projeye bağlı seçenekler seçildikten sonra `Generate Project` butonuna tıklayarak **.zip** uzantılı dosyayı bilgisayarınıza indirip IDE’nizde açabilirsiniz.
 <br><br>
 
 - **Intellij IDEA** 
