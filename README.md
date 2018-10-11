@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="http://www.hizliresimyukle.com/images/2018/10/11/1.md.png" width="450"><br>
+<img src="http://www.hizliresimyukle.com/images/2018/10/11/1.md.png" width="430"><br>
  <img src="http://www.hizliresimyukle.com/images/2018/10/11/DU7GUGCV4AAf90X.jpg" width="250">
 </p>
 
