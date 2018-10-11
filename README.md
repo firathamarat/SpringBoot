@@ -25,7 +25,7 @@ Bu işlemler proje büyüdükçe vakit alabiliyor. Spring Boot ise bu vakit kayb
 </p>
 
 <p align="center">
-Sonraki ekranda ise projenin detayları belirlenmektedir. (Paket yapısını, sürümünü versiyonlama işlemlerini) Sonrasında Spring Boot projesine hangi bağımlılıkların ekleyeceği bu ekranda seçilmektedir. Eğer bu ekranda bir şey seçilmezse proje oluşturulduğunda **pom.xml** dosyasına maven adreslerini ekleyerek de kullanılabilmektedir.
+Sonraki ekranda ise projenin detayları belirlenmektedir. (Paket yapısını, sürümünü versiyonlama işlemlerini) Sonrasında Spring Boot projesine hangi bağımlılıkların ekleyeceği bu ekranda seçilmektedir. Eğer bu ekranda bir şey seçilmezse proje oluşturulduğunda pom.xml dosyasına maven adreslerini ekleyerek de kullanılabilmektedir.
 </p>
 
 <p align="center">
@@ -33,6 +33,12 @@ Sonraki ekranda ise projenin detayları belirlenmektedir. (Paket yapısını, s�
   <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/step4.jpg" width="350">
   <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/step5.jpg" width="350">
 </p>
+
+
+
+
+
+
 
 
 
