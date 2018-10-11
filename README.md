@@ -1,7 +1,7 @@
 
 <p align="center">
-<img src="http://www.hizliresimyukle.com/images/2018/10/11/1.md.png" width="430"><br>
- <img src="http://www.hizliresimyukle.com/images/2018/10/11/DU7GUGCV4AAf90X.jpg" width="250">
+<img src="http://www.hizliresimyukle.com/images/2018/10/11/1.md.png" width="440"><br>
+ <img src="http://www.hizliresimyukle.com/images/2018/10/11/2.md.png" width="250">
 </p>
 
 ### Spring Boot Nedir ?
