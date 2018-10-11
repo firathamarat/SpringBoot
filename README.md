@@ -1,7 +1,8 @@
 
 <p align="center">
- <img src="https://blogitwithsatyam.files.wordpress.com/2018/05/spring-by-pivotal.png?w=1400&h=9999" width="450"><br>
- <img src="http://www.hizliresimyukle.com/images/2018/10/11/DU7GUGCV4AAf90X.jpg" width="250">
+ <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/logo1.png" width="450"><br>
+ <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/logo2.png" width="250">
+ <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/logo3.png" width="250">
 </p>
 
 ### Spring Boot Nedir ?
