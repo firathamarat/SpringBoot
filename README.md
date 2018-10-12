@@ -42,6 +42,30 @@ Spring Boot çalıştırıldığında console ekranına ilk gelen ASCII karakter
 `src` > `main` > `resources` > (right click) > `new` > `file` > (name: banner.txt) yolu izlenerek dosya yaratıldıktan sonra <a href="https://devops.datenkollektiv.de/banner.txt/index.html" target="_blank">devops.datenkollektiv.de</a> adresinden hoşunuza giden ASCII şeklini kopyalayarak oluşturduğumuz banner.txt dosyasına açıp projeyi çalıştırmak. Yazınız console ekranında görünecektir.
 
 
+### Tomcat Port Değiştirme:
+
+Spring Boot ile gelen Tomcat portunu kolaylıkla değiştirebilirsiniz. Oluşturmuş olduğunuz projenin `application.properties` dosyasına
+`server.port = 8786` yazark veya java bean olarak  
+
+```java
+import org.springframework.boot.context.embedded.ConfigurableEmbeddedServletContainer;
+import org.springframework.boot.context.embedded.EmbeddedServletContainerCustomizer;
+import org.springframework.stereotype.Component;
+ 
+@Component
+public class CustomPort implements EmbeddedServletContainerCustomizer {
+ 
+	@Override
+	public void customize(ConfigurableEmbeddedServletContainer container) {
+ 
+		container.setPort(8786);
+ 
+	}
+ 
+}
+```
+`container.setPort( 8786 );` kodunu projemize ekleyerek kolay bir şekilde Tomcat portunu değiştirebilirsiniz.
+
 
 
 
