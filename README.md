@@ -34,6 +34,12 @@ Sonraki ekranda ise projenin detayları belirlenmektedir. (Paket yapısını, s�
   <img src="https://github.com/firathamarat/SpringBoot/blob/master/setup/step5.jpg" width="350">
 </p>
 
+<br><br>
+### Custom Banner Oluşturma:
+
+Spring Boot çalıştırıldığında console ekranına ilk gelen ASCII karakterleri Spring Boot yazısıdır. Değiştirebilmek için; <br>
+
+`src` > `main` > `resources` > (right click) > `new` > `file` > (name: banner.txt) yolu izlenerek dosya yaratıldıktan sonra <a href="https://devops.datenkollektiv.de/banner.txt/index.html" target="_blank">devops.datenkollektiv.de</a> adresinden hoşunuza giden ASCII şeklini kopyalayarak oluşturduğumuz banner.txt dosyasına açıp projeyi çalıştırmak. Yazınız console ekranında görünecektir.
 
 
 
