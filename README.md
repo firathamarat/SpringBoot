@@ -42,10 +42,10 @@ Spring Boot çalıştırıldığında console ekranına ilk gelen ASCII karakter
 `src` > `main` > `resources` > (right click) > `new` > `file` > (name: banner.txt) yolu izlenerek dosya yaratıldıktan sonra <a href="https://devops.datenkollektiv.de/banner.txt/index.html" target="_blank">devops.datenkollektiv.de</a> adresinden hoşunuza giden ASCII şeklini kopyalayarak oluşturduğumuz banner.txt dosyasına açıp projeyi çalıştırmak. Yazınız console ekranında görünecektir.
 
 <p align="center">
- <img src="https://github.com/firathamarat/SpringBoot/blob/master/images/console_ascii.png" width="450"><br>
+ <img src="https://github.com/firathamarat/SpringBoot/blob/master/images/console_ascii.png" width="450">
 </p>
 
-<br>
+<br><br>
 ### Tomcat Port Değiştirme:
 
 Spring Boot ile gelen Tomcat portunu kolaylıkla değiştirebilirsiniz. Oluşturmuş olduğunuz projenin `application.properties` dosyasına
