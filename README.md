@@ -70,6 +70,21 @@ public class CustomPort implements EmbeddedServletContainerCustomizer {
 ```
 `container.setPort( 8786 );` kodunu projemize ekleyerek kolay bir şekilde Tomcat portunu değiştirebilirsiniz.
 
+<br>
+
+### Spring Boot CLI - Spring Boot Demo
+Spring Boot Projesi oluşturmak için birden çok yol bulunmaktadır. Bu yollardan bir tanesi komut satırı üzerinden Spring Boot projesi oluşturma. Spring Boot CLI ile var olan bir projeyi de çalıştırabilmek mümkün ancak genellikle ilk proje oluşturma işlemi yapılmakta.
+
+<a href="http://repo.spring.io/release/org/springframework/boot/spring-boot-cli/">repo.spring.io</a> üzerinden güncel Spring Boot CLI dosyasını indiriniz. İndirdiğiniz bu dosyaları çıkarıp bin klasörünü ortam değişkenlerine eklemeniz gerekmektedir.
+
+
+**Command Line:**<br>
+`set PATH=C:\spring-boot-cli-2.0.5.RELEASE\bin;%PATH%` yazılarak bin klasörü oram değişkenlerine eklenmektedir. Başarılı bir şekilde eklendiğini kontrol etmek için `spring --version` yazarak eklediğiniz spring-boot-cli versiyonunu öğrenebilirsiniz. Böylelikle Spring boot projesi oluşturmak için ise gerekli bağımlılıkları inmiş bir şekilde proje zipli olarak bilgisayarımıza indirilmektedir.<br>
+
+**Demo Spring Project:**<br>
+`spring init --dependencies=web,thymeleaf demospring.zip` komutuyla .zip dosyası belgelerinize inmektedir. İndirdiğiniz .zip dosyasını açarak geliştirme işlemlerine devam edebilirsiniz.
+
+
 
 
 
